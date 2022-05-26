@@ -8,9 +8,9 @@ namespace LearningCsharp
         {
 
             int x = 10;
-            decimal d = 1.32m; //Utilizado para calculos financeiros (Moeda)
-            double d2 = 1.48; //Utilizado para calculos científicos e medições 
-            float f = 16.87f; //engines e jogos como o Unity devido a performance 
+            decimal d = 1.32m; // Utilizado para calculos financeiros (Moeda)
+            double d2 = 1.48; // Utilizado para calculos científicos e medições 
+            float f = 16.87f; // Engines e jogos como o Unity devido a performance 
 
             int y = x + 2;
 
